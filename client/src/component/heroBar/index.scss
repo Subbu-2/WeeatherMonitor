@@ -1,10 +1,14 @@
-.main-container{
+.hero-container{
     background-color: rgba(0 0 0 / 80%);
     box-shadow: 10px -2px 20px 2px rgb(0 0 0 /30%);
     border-radius: 15px;
-    max-width: 1080px;
+    height: 60px;
     margin: 20px auto;
-    padding: 20px;
-    position: relative;
-    z-index: 1;
+    padding: 5px;
+}
+
+.brand-logo{
+    padding: 10px 0;
+    height:30px;
+    margin-left: 20px;
 }
